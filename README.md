@@ -1,6 +1,8 @@
 ### study-of-basic-gates
 NAME: ROHINI R 
+
 Register number:24005989
+
 Experiment_1:Study Of Logic Gate
 
 
